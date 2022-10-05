@@ -37,3 +37,17 @@ footer{
   font-family: 'Poppins',sans-serif;
 
 }
+input{
+  display: flex-block;
+  width:100px;
+  height:7%;
+  margin:20px auto auto auto;
+  background-color:aqua ;
+  border-radius: 100px;
+  font-family:'Lobster',cursive ;
+  font-size: 25px;
+  
+}
+input:hover{
+  color:white;
+}
